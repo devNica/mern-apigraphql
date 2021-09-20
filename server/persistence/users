@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "firstname": "Carlos",
+    "lastname": "Estrada",
+    "email": "cestrada@yahoo.es",
+    "password": "$2b$10$PIbzLKXpNzk8.3NGEKlf5OiCDVwbIoQOMZ.aMfu.J6oTTe/hrcDKi"
+  },
+  {
+    "id": 2,
+    "firstname": "Alexander",
+    "lastname": "Rosales",
+    "email": "arosales@hotmail.es",
+    "password": "$2b$10$tssCRE.w5iuk0qRHVh3GmOVd2ch8VCjgNkTPS4phZV68.Dj7j/1Yy"
+  },
+  {
+    "id": 3,
+    "firstname": "Juan",
+    "lastname": "Perez",
+    "email": "jperez@hotmail.es",
+    "password": "$2b$10$A22QsevKywPhAH.f.2lGW.ClKEiU/5TJ7gaKVjXq3dYYbXBrxKcCS"
+  },
+  {
+    "id": 4,
+    "firstname": "Maria",
+    "lastname": "Elena",
+    "email": "malena@hotmail.es",
+    "password": "$2b$10$brYSSW1noA2oZkWMsSxb4uV89kCDQC3cWAcmBDlmBKZsTS1QYqldq"
+  }
+]
